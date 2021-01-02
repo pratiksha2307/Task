@@ -1,0 +1,152 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Lato', sans-serif;
+	box-sizing: border-box;
+}
+#container-fluid{
+position: absolute;
+background: "pink";
+}
+.nav{
+position: absolute;
+left: 0%;
+right: 0%;
+background: #cac7c7;
+}
+#details{
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 100%;
+ color: #1F1F1F;
+}
+.btn-checkout{
+display: flex;
+justify-content: center;
+padding: 4px 16px;
+
+/* primary green */
+
+background: #16AE4A;
+/* primary green */
+
+border: 1px solid #16AE4A;
+box-sizing: border-box;
+border-radius: 4px;
+}
+#btn-text{
+text-transform: uppercase;
+color: #FFFFFF;
+flex: none;
+font-style: normal;
+font-weight: 800;
+font-size: 14px;
+line-height: 100%;
+}
+.msstyle{
+background: linear-gradient(90.26deg, #044458 27.08%, rgba(113, 149, 160, 0.567708) 68.75%, rgba(255, 255, 255, 0) 107.89%);
+display: block;
+margin-top: 5%;
+margin-bottom: 5%;
+margin-left: auto;
+margin-right: auto;
+}
+.top-left {
+padding: 4px 16px;
+font-style: normal;
+font-weight: normal;
+font-size: 56px;
+line-height: 150%;
+color: #FFFFFF;
+  }
+.top-50{
+padding: 4px 16px;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 100%;
+color: #FFFFFF;
+}
+
+.btn-top-left{
+color: #FFFFFF;
+font-style: normal;
+font-weight: 800;
+font-size: 14px;
+line-height: 100%;
+justify-content: center;
+padding: 4px 16px;
+background: transparent;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 4px;
+margin-left: 20px;
+}
+.msstyle2{position: absolute;
+width: 1200px;
+height: 428px;
+left: 120px;
+top: 3996px;
+
+background: linear-gradient(90deg, #2D2624 50%, rgba(0, 0, 0, 0) 100%),url('./Assets/Rectangle 90.png');
+    
+}
+.text{
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 100%;
+display: flex;
+align-items: center;
+color: #1F1F1F;
+}
+#card-text{
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 100%;
+text-align: center;
+color: #1F1F1F;
+}
+#things{
+	background: #F9F9F9;
+}
+
+.promo-area {
+	background:#fbfbfb;
+	color: #fff;
+	padding: 40px 0 40px;
+  }
+  
+  .brands-area {
+	border-top:1px solid #e5e5e5;
+	border-bottom:1px solid #e5e5e5;
+	color: #fff;
+	padding: 20px 0 20px;
+  }
+  
+  .promo-area .zigzag-bottom, .brands-area .zigzag-bottom{background: #f4f4f4}
+  .single-promo {
+	  font-size: 25px;
+	  font-weight: 200;
+	  padding: 20px 10px;
+	  text-align: center;
+  }
+  .single-promo i {
+	font-size: 50px;
+  }
+  
+  .single-promo:hover {color: #fff;background: #222;}
+  .promo1 { background:#5a88ca;}
+  .promo2 { background:#ffd900;}
+  .promo3 { background:#fa8072;}
+  .promo4 { background:#4abebd;}
+  .section-title {
+	font-family: "Raleway",sans-serif;
+	font-size: 50px;
+	font-weight: 100;
+	margin-bottom: 50px;
+	text-align: center;
+  }
+  
